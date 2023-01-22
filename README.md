@@ -1,3 +1,3 @@
 # games
 my games.
-all of my games have compressed versions and normal versions
+all of my games are compressed.
