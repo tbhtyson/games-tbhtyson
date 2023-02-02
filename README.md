@@ -1,3 +1,3 @@
 # games
 my games.
-all of my games are compressed into one file.
+all of my games are in one uncompressed tar archive
