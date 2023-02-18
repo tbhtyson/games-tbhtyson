@@ -1,2 +1,2 @@
 # games
-these games come in one folder or archive
+these games are seperate
