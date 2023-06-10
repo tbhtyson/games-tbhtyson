@@ -1,2 +1,2 @@
-# games
-these games are seperate
+games
+these games are together.
